@@ -1,6 +1,6 @@
 # Personal Wallet
 
-![Image alt](https://github.com/LenaSosnovskaya/overoneproject/raw/image_app.png)
+![Alt text](https://github.com/LenaSosnovskaya/overoneproject/blob/main/image_app.png)
 
 ## Context
 This application was created for personal finance accounting. The user enters data on income and expenses, the application saves them and calculates the user's current balance.
